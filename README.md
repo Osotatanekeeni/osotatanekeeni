@@ -36,7 +36,7 @@ Full-Stack Web Developer
                       <a href="https://www.twitter.com/Tatanekari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
                      
 ![Osotatanekeeni's GitHub stats](https://github-readme-stats.vercel.app/api?username=osotatanekeeni&count_private=true&show_icons=true&theme=radical)
-[![Osotatanekeeni's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?username=osotatanekeeni&theme=radical)](https://git.io/streak-stats)
+[![Osotatanekeeni's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Osotatanekeeni&theme=radical)](https://git.io/streak-stats)
 [![Osotatanekeeni's github activity graph](https://activity-graph.herokuapp.com/graph?username=Osotatanekeeni&theme=rogue)](https://github.com/osotatanekeeni/github-readme-activity-graph)
 
 
