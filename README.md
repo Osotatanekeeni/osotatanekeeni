@@ -6,7 +6,7 @@ Full-Stack Web Developer
 
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [tatanekari52@gmail.com](mailto:tatanekari52@gmail.com)
-*   🧠  I'm learning how to migrate a firebase database to mongo
+*   🧠  I'm currently learning React
 *   🤝  I'm open to collaborating on any project that piques my interest
 *   ⚡  Powered by water👀 (not coffee...)
 
